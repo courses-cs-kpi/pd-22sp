@@ -17,7 +17,7 @@ title: Головна
 tagline: Технології графічного процесінгу & розподілених обчислень
 description: КПІ ім. Ігоря Сікорського - Весна, 2022
 author: Юрій Кочура
-baseurl: '/courses/pd/22sp' # the subpath of your site, e.g. /blog
+baseurl: '/pd/22sp' # the subpath of your site, e.g. /blog
 url: 'https://courses-cs-kpi.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 google_site_verification: 'QclY_1udbdKts462GzFHLmFoaioICIQ16kjZumjRJIg'
