@@ -1,15 +1,15 @@
 ---
-title: Comparable
+title: Назва матеріалів
 parent: Вступ
 nav_order: 2
-summary: BJP 9.5, 10.2
+summary: 
 ---
 
 # {{ page.title }}
 
 {% assign slides = site.slides | where_exp: "slide", "slide.url contains page.url" | sort: "nav_order" %}
 {% if slides != empty %}
-## Table of contents
+## Зміст
 {: .text-delta }
 
 {% for slide in slides %}

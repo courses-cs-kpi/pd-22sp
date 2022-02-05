@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/courses/pd/22sp/intro/</loc>
-<lastmod>2022-02-04T20:32:23+02:00</lastmod>
+<loc>http://localhost:4000/pd-22sp/intro/</loc>
+<lastmod>2022-02-05T19:55:02+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/courses/pd/22sp/intro/comparable/</loc>
-<lastmod>2022-02-04T20:32:23+02:00</lastmod>
+<loc>http://localhost:4000/pd-22sp/intro/lec01/</loc>
+<lastmod>2022-02-05T19:55:02+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/courses/pd/22sp/intro/welcome/</loc>
-<lastmod>2022-02-04T20:32:23+02:00</lastmod>
+<loc>http://localhost:4000/pd-22sp/intro/welcome/</loc>
+<lastmod>2022-02-05T19:55:02+02:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/courses/pd/22sp/about/</loc>
+<loc>http://localhost:4000/pd-22sp/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/courses/pd/22sp/</loc>
+<loc>http://localhost:4000/pd-22sp/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/courses/pd/22sp/seminar/</loc>
+<loc>http://localhost:4000/pd-22sp/seminar/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/courses/pd/22sp/staff/</loc>
+<loc>http://localhost:4000/pd-22sp/staff/</loc>
 </url>
 </urlset>
