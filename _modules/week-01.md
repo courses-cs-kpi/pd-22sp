@@ -10,4 +10,4 @@ title: Вступ
   : [[HML](https://ykochura.github.io/ac-kpi/?p=lecture1.md#1)][[PDF](https://ykochura.github.io/ac-kpi/pdf/lecture1.pdf)]
 
 : **Книги 📚**{: .label .label-red}**Для читання**
-  : PMPP Ch. 1 pp. 1-18 & PHPC Ch.1 pp. 1-34
+  : PMPP Ch. 1 pp. 1-18 <br> PHPC Ch.1 pp. 1-34
