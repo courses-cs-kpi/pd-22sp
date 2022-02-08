@@ -7,5 +7,5 @@ title: Вступ до CUDA C
   : [[HML](https://ykochura.github.io/cv-kpi/?p=lecture1.md)][[PDF](https://ykochura.github.io/cv-kpi/pdf/lecture1.pdf)]
 
 
-: **📚**{: .label .label-red}**Очікується**
+: **Книги 📚**{: .label .label-red}**Очікується**
 
