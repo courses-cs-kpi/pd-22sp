@@ -1,5 +1,5 @@
 ---
-title: CUDA 
+title: Вступ до CUDA
 ---
 
 16 лют
