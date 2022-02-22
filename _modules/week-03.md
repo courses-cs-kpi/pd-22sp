@@ -1,5 +1,5 @@
 ---
-title: 
+title: Вступ до CUDA II
 ---
 
 23 лют
